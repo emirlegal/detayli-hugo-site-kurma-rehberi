@@ -5,20 +5,20 @@ tags: ["şiir", "yaşam"]
 draft: false
 ---
 
-Dörtnala gelip Uzak Asya'dan
-Akdeniz'e bir kısrak başı gibi uzanan
+Dörtnala gelip Uzak Asya'dan  
+Akdeniz'e bir kısrak başı gibi uzanan  
 		bu memleket, bizim.
 
-Bilekler kan içinde, dişler kenetli, ayaklar çıplak
-ve ipek bir halıya benziyen toprak,
+Bilekler kan içinde, dişler kenetli, ayaklar çıplak  
+ve ipek bir halıya benziyen toprak,  
 		bu cehennem, bu cennet bizim.
 
-Kapansın el kapıları, bir daha açılmasın,
-yok edin insanın insana kulluğunu,
+Kapansın el kapıları, bir daha açılmasın,  
+yok edin insanın insana kulluğunu,  
 		bu dâvet bizim....
 
-Yaşamak bir ağaç gibi tek ve hür
-ve bir orman gibi kardeşçesine,
+Yaşamak bir ağaç gibi tek ve hür  
+ve bir orman gibi kardeşçesine,  
 		bu hasret bizim...
 
 - Nazım Hikmet
