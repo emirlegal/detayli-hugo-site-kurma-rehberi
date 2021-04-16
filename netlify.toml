@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.82.0"
-  HUGO_BASEURL = "https://sifirdan-hugo-blog-yapma-rehberi.netlify.app"
+  HUGO_BASEURL = "https://detayli-hugo-site-kurma-rehberi.netlify.app"
 
 [[headers]]
   for = "/*"
