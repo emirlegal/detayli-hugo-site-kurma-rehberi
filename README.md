@@ -6,8 +6,8 @@
 
 ## Yerelde çalıştırmak için alttaki adımları izleyin
 
-`git clone https://github.com/koraylinux/sifirdan-hugo-site-kurma-rehberi.git`  
-`cd sifirdan-hugo-blog-yapma-rehberi`  
+`git clone https://github.com/koraylinux/detayli-hugo-site-kurma-rehberi.git`  
+`cd detayli-hugo-blog-yapma-rehberi`  
 `hugo server`
 
 `http://localhost:1313/` ile izleyin.
