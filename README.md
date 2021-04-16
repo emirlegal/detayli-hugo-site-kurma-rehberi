@@ -1,5 +1,13 @@
-# Sıfırdan hugo blog yapma rehberi
+# Detaylı Hugo Site Kurma Rehberi
 
-**Tutorial:** https://zwbetz.com/make-a-hugo-blog-from-scratch/
+**Öğretici:** http://koray.dev/detayli-hugo-site-kurma-rehberi/
 
-**Demo:** https://sifirdan-hugo-blog-yapma-rehberi.netlify.app
+**Demo:** https://detayli-hugo-site-kurma-rehberi.netlify.app
+
+## Yerelde çalıştırmak için alttaki adımları izleyin
+
+`git clone https://github.com/koraylinux/sifirdan-hugo-blog-yapma-rehberi.git`
+`cd sifirdan-hugo-blog-yapma-rehberi`
+`hugo server`
+
+`http://localhost:1313/` ile izleyin.
