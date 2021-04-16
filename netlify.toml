@@ -3,7 +3,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.58.3"
+  HUGO_VERSION = "0.82.0"
   HUGO_BASEURL = "https://sifirdan-hugo-blog-yapma-rehberi.netlify.app"
 
 [[headers]]
